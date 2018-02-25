@@ -1,0 +1,4 @@
+venv/*
+.iden/*
+*.pyc
+*.sqllite3
